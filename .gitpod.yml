@@ -1,0 +1,3 @@
+tasks:
+  - init: python guessPC.py
+    command: guessPC.py
